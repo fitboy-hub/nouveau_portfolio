@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(10, 9, 9);
+}
+h1{
+    color: rgb(223, 15, 160);
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+    background-color: rgb(109, 12, 72);
+    font-size: 25px;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 20px;
+    
+}
+.OUTILS{
+    background-color: #2600ff;
+    font-size: small;
+    display: flex;
+    text-align: center;
+    gap: 150PX;
+    
+}
+
